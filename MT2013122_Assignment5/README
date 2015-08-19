@@ -1,0 +1,18 @@
+MT2013122_Assignment5  28/11/2014
+
+How to run the Program
+-----------------------
+The Program is made using processing, So it requires Processing installed.
+After installation of processing create a new sketch Parallel coordinates copy the all the src file
+and copy the data file paste into the sketch folder. Then run the parallelCoordinates.pde file.
+
+Fatures that work for the assignment
+-------------------------------------
+It gives the details about the imports in each year.
+The area cover by each stated is according to the imports.
+It compare the import in each year and rate of change.
+
+Drawbacks and Bugs
+-------------------
+There is no bug.
+The hierarchy levels are very less.
