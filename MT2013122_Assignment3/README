@@ -7,6 +7,3 @@ Run the make file which is in the src folder.
 Fatures that work for the assignment
 -------------------------------------
 Volume Visualization using isosurfacing (with Marching Cube algorithm).
-Drawbacks and Bugs
--------------------
-The direct volume rendering is not implemented.

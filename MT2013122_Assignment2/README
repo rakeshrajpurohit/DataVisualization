@@ -11,6 +11,3 @@ Fatures that work for the assignment
 2. Vector field visualization of wind speed using streamlines  with color mapping.
 3. Vector field visualization of wind speed using LIC with color mapping.
 
-Drawbacks and Bugs
--------------------
-In the LIC the color mapping is not proper.

@@ -12,7 +12,3 @@ It gives the details about the positive, negative or no relation for attribues a
 It gives skewness of attribute.
 It compare the values in different axis.
 
-Drawbacks and Bugs
--------------------
-There is no bug.
-The most of the properties of parallel coordinates are there.
