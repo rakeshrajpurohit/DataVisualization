@@ -1,0 +1,16 @@
+MT2013122_Assignment1 
+
+How to run the Program
+-----------------------
+Run the make file which is in the src folder.
+
+Fatures that work for the assignment
+-------------------------------------
+1. It gives the elevation map for the given data set.
+2. In the color mapping the height of the Grand canyon data set is represent in the Heatmap.
+3. The contour lines in white color.
+
+Drawbacks and Bugs
+-------------------
+There is no bug.
+The most of the functionalty required for assignment are achieved.  
