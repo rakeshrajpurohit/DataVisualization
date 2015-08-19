@@ -1,0 +1,16 @@
+MT2013122_Assignment2 
+
+How to run the Program
+-----------------------
+Run the make file which is in the src folder.
+Press w for hedgehog, s for streamlines, a for streaklines, d for LIC.  
+
+Fatures that work for the assignment
+-------------------------------------
+1. Vector field visualization of wind speed using hedgehog with color mapping.
+2. Vector field visualization of wind speed using streamlines  with color mapping.
+3. Vector field visualization of wind speed using LIC with color mapping.
+
+Drawbacks and Bugs
+-------------------
+In the LIC the color mapping is not proper.
